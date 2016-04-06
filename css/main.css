@@ -12,6 +12,7 @@ html {
   text-size-adjust: 100%;
 }
 
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
@@ -34,3 +35,4 @@ svg {
 .lines path {
   stroke-dasharray: 0, 480;
 }
+
